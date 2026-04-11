@@ -9,7 +9,7 @@ Pretendo listar as tecnologias que preciso aprender, e organizar as anotações 
 - Git e Github;
 - Linux;
 - Html, Css;
-- JavaScript;
+- [JavaScript;](./javascript/README.md)
 
 ### TECNOLOGIAS MENOS IMPORTANTES:
 
