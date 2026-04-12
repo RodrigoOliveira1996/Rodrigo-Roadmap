@@ -13,5 +13,5 @@ Porem, achei que nao ficou legal a formatação em markdown e abandonei o arquiv
 ---
 
 - link das anotações:
-[05-variaveis-tiposprimitivos](./notes/05-variaveis-tiposprimitivos.md)
-[06-Tratamento-de-dados](./notes/06-Tratamento-de-Dados.md)
+	- [05-variaveis-tiposprimitivos](./notes/05-variaveis-tiposprimitivos.md)
+	- [06-Tratamento-de-dados](./notes/06-Tratamento-de-Dados.md)
