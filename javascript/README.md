@@ -8,10 +8,10 @@ Porem, achei que nao ficou legal a formatação em markdown e abandonei o arquiv
 ---
 [Aulas com Gustavo Guanabara.](https://youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&si=KPk87fLoHYCTH5UL)
 ---
-### Aula atual
+### obejtivo atual:
+- fazer exercicios da aula 06
 ---
-- link da aula:
-[Variaveis e tipos primitivos](https://youtu.be/Vbabsye7mWo?si=AS2BoXxqArL8_Hr3)
-- link das anotações:
-[variaveis-tiposprimitivos](./notes/variaveis-tiposprimitivos.md)
 
+- link das anotações:
+[05-variaveis-tiposprimitivos](./notes/05-variaveis-tiposprimitivos.md)
+[06-Tratamento-de-dados](./notes/06-Tratamento-de-Dados.md)
