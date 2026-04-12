@@ -1,5 +1,8 @@
 # Variaveis e tipos primitivos.
 ---
+
+### ATENÇÃO - NENHM EXERCICIO FEITO PARA ESTA AULA. 
+---
 ### Breve resumo de comandos aprendidos até aqui:
 
 ```
