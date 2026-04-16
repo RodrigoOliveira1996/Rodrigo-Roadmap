@@ -1,4 +1,4 @@
-/*exercicio 1 - aula 4 - descomplica*/
+/*Programa que lê*/
 #include <stdio.h>
 
 int main(){
