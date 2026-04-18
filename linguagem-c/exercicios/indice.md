@@ -24,7 +24,7 @@ Descrição: Programa que faz operações aritméticas básicas com dois numeros
     - resto da divisão %
 Conteúdo aprendido: o principal - para uma divisão real, pelo menos um dos numeros da divisão precisa ser float.
 
-- [05-exercicio](./05-exercicio.c) <br>
+- [05-exercicio](05-exercicio.c) <br>
 Descrição: Programa que apresenta algumas funcionalidades da biblioteca math.h
     - areedondamento para cima - ceil(numreal)
     - arredondamento para baixo - floor(numreal)
