@@ -52,4 +52,15 @@ se o resto da divisao for zero entao é falso. dai voce monta o if e else basead
 Para transferir essa sintaxe pro portugues talvez fique um pouco confuso.
 Aqui voce utiliza o not True, entao falso. é o sibolo! - if(!eh-impar).
 se a variavel declarada (é impar) for diferente de zero ela é verdadeira. se nao verdadeira? é falsa, pois tem valor zero.
-    
+
+- [07-exercicio](./07-exercicio/07-exercicio.c) <br> 
+Descrição:programa que calcula media final de acordo com as diretrizes da escola e escreve a sua media final e situação:
+aprovado, recuperação, reprovado. 6 ou mais, aprovado, 4 ou menos, reprovado. 
+as diretrizes estao descritas no exercicio.
+é um programa qe envolve algoritmos de operações de arimeticas e condicionais if, else if, else.
+Conteúdo aprendido: logica de programação para questoes de maematica.
+
+ - [08-exercicio](./08-exercicio/08-exercicio.c) <br>
+Descrição: programa que le tres valores e imprimi que tipo de triangulo é, ou se nao é um triangulo.
+adiciona na conta operadores logicos para atribuir algumas condições refente aos valores do triangulo
+Conteúdo aprendido: &&, |.
