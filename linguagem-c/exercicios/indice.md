@@ -64,3 +64,15 @@ Conteúdo aprendido: logica de programação para questoes de maematica.
 Descrição: programa que le tres valores e imprimi que tipo de triangulo é, ou se nao é um triangulo.
 adiciona na conta operadores logicos para atribuir algumas condições refente aos valores do triangulo
 Conteúdo aprendido: &&, |.
+
+
+ - [09-exercicio](./09-exercicio/09-exercicio.c) <br>
+Descrição:Programa que lê salario bruto de uma pessoa; calcula salario liquido baseado na  taxa de imposto de renda e taxa de inss. 
+em seguida apresenta um menu de opções que o usuario pode escolher o que quer que seja exibido: salario liquido, desconto do imposto de renda, e descontodo inss.
+Conteúdo aprendido: switch case para valores constantes é melhor que ifs, e elses.
+
+
+- [Variação-01](./09-exercicio/01-variacao.c) <br>
+ao invés de usar números , se utilza letras. porém temq eu ter cuidado ao limapr o buffer do teclado para variavel char.
+tambem é importante se atentar para letras maisculas e minusculas.
+

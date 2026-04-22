@@ -13,7 +13,7 @@ int main(void){
 
   float salario_bruto, imp_renda, tx_inss, Sal_liquido;
   char nome[TAM_NOME];
-  int menu;
+  char menu;
 
   // SOLICITANDO DADOS
   
@@ -42,33 +42,36 @@ int main(void){
   // APRESENTANDO MENU
 
   printf("Escolha sua opção digitando o número correspondente: \n");
-  printf("\t1 - Taxa de INSS.\n");
-  printf("\t2 - Taxa de Imposto de Renda.\n");
-  printf("\t3 - Total do salario liquido.\n");
+  printf("\tA - Taxa de INSS.\n");
+  printf("\tB - Taxa de Imposto de Renda.\n");
+  printf("\tC - Total do salario liquido.\n");
 
   //CAPTURAR A ESCOLHA DO USUARIO
 
-  scanf("%d", &menu);
+  scanf(" %c", &menu);
 
   // COMPARAR E DECIDIR
 
   switch(menu){
 
-    case 1:
-      printf("1 - Taxa INSS: %.2f\n", tx_inss);
+    case 'a':
+    case 'A':
+      printf("A - Taxa INSS: %.2f\n", tx_inss);
       break;
     
-    case 2:
-      printf("2 - Taxa do Imposto de Renda: %.2f\n", imp_renda);
+    case 'b':
+    case 'B':
+      printf("B - Taxa do Imposto de Renda: %.2f\n", imp_renda);
       break;
 
-    case 3:
+    case 'c':
+    case 'C':
       printf("3 - Total do Salário Líquido: %.2f\n", Sal_liquido);
       break;
 
     default:
       printf("Opção inválida\n");
-      break;
+   
 
   
   
