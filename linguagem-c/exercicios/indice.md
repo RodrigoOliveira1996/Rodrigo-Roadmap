@@ -9,7 +9,7 @@ Conteúdo aprendido: tipos de variaveis, sintaxe básica
 Descrição: Programa que lê dados do usuario (Idade, Sexo(M|F), Salario) e escreve na memória
 Conteúdo aprendido: Printf, scanf, &variavel, %c, %d, %f.
 
-- [03-exercicio](./03-exercicio/03-execicio.c) <br>
+- [03-exercicio](./03-exercicio/03-exercicio.c) <br>
 Descrição: Programa que lê Nome, endereço, e CPF. 
 Algumas maneiras de como o C guarda texto. bem como, ideias do \0 e \n. e como pesquisar um char (characterer) e subistitui-lo.
 Conteúdo aprendido: #define(diretiva de pré-processamento), biblioteca string.h, fgets, sizeof, strlen, strcspn, 
